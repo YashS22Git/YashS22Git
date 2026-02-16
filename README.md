@@ -25,7 +25,7 @@
 
 - 🎓 **Education:** 2nd-year Engineering student at **VIT Pune**.
 - 🚀 **Currently Building:**
-  - 🕵️‍♂️ A **Deepfake Video Detection System** for the Microsoft Imagine Cup 2026.
+  - 🕵️‍♂️ A **Deepfake Video Detection System**
   - 🎨 My **Personal Portfolio Website** to showcase creative frontend animations.
   - 📄 A **Research Paper** on AI architectures for IEEE/Springer conferences.
   - ♻️ Optimizing my **Carbon Footprint Tracker** with advanced SQL triggers.
